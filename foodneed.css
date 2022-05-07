@@ -1,0 +1,30 @@
+div{
+    background-color: powderblue;
+}
+body{
+    background-color: aliceblue;
+}
+.center{
+    text-align: center;
+}
+p{
+    font-family: "Perpetua", "Perpetua", sans-serif;
+    font-size: 25px;
+    color: #333146;
+
+}
+.first{
+    float: left;
+    height: 210px;
+    width: 314px;
+}
+
+.team{
+    font-size: 15px;
+}
+
+#heading{
+    color: #4A3933;
+    font-family: "Palatino Linotype", "Palatino Linotype", serif;
+    font-size: 4em;
+}
