@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+<link rel="icon" href="favicon.ico">
     <meta charset="utf-8">
     <title>Food Need</title>
     <link rel="stylesheet" href="foodneed.css">
